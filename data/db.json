@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "content": "Wake up",
+      "status": "done",
+      "id": 1
+    },
+    {
+      "content": "Brush teeth",
+      "status": "done",
+      "id": 2
+    },
+    {
+      "content": "Have breakfast",
+      "status": "done",
+      "id": 3
+    },
+    {
+      "content": "Coding",
+      "status": "todo",
+      "id": 4
+    },
+    {
+      "content": "Watching TV",
+      "status": "todo",
+      "id": 5
+    },
+    {
+      "content": "Sleep",
+      "status": "todo",
+      "id": 6
+    },
+    {
+      "content": "Play Genshin Impact with my favourite character Ayaka",
+      "status": "todo",
+      "id": 7
+    }
+  ]
+}
